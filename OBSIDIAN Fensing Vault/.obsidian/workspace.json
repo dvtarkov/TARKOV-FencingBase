@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "234717e6f0bf6abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae4484946b82303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7215c0e8d5696d6d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e51d4d4289080e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab2eb600338bf96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b07812d8ad52a1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "462766ca6d40f2de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8ccf8e3bdbd6ea4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e122482037804fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d1c0d42211c17e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a264932d30b6369",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4299fd6b04d69fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fa3115e4b49155b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "486446777f934fad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7215c0e8d5696d6d",
+  "lastOpenFiles": [
+    "Фехтование/Рапира/Действия/Атаки/01 Укол.md",
+    "Фехтование/Рапира/Действия/Атаки/02 Укол из пронации.md",
+    "Фехтование/Рапира/Действия/Атаки/02 Укол из супинации.md",
+    "Фехтование/Рапира/Действия/Атаки/00 Атаки в рапире.md",
+    "Фехтование/Рапира/Положения/Позиции/00 Позиции.md",
+    "2024-08-15.md",
+    "Фехтование/Рапира/Положения/Позиции/01 3я-позиция.md",
+    "Фехтование/Рапира/Положения/Позиции/01 4я-позиция.md",
+    "Фехтование/Рапира/Положения/Позиции/02 Контрпозиция.md",
+    "Фехтование/Рапира/Положения/Соединения/02 Действительное соединение.md",
+    "Фехтование/Рапира/Положения/Соединения/02 Виртуальное соединение.md",
+    "Фехтование/Рапира/Положения/Соединения/01 Открытое соединение.md",
+    "Фехтование/Рапира/Положения/Соединения/01 Нейтральное соединение.md",
+    "Фехтование/Рапира/Положения/Соединения/01 Закрытое соединение.md",
+    "Фехтование/Рапира/Положения/Соединения/00 Соединения.md",
+    "Фехтование/Рапира/Положения/Дистанции/00 Дистанции.md",
+    "Фехтование/Рапира/Положения/Линии/00 Фехтовальные линии.md",
+    "Фехтование/Рапира/Положения/Линии/02 Закрытая линия.md",
+    "Фехтование/Рапира/Положения/Линии/02 Открытие.md",
+    "Фехтование/Рапира/Положения/01 Темп.md",
+    "Фехтование/Рапира/Положения/00 Положения.md",
+    "Фехтование/Рапира/Действия/Защиты/00 Защиты в рапире.md",
+    "Фехтование/Рапира/Действия/Переводы/00 Переводы в рапире.md",
+    "Фехтование/Рапира/Действия/Перехваты/00 Перехваты в рапире.md",
+    "Фехтование/Рапира/Действия/Шаги/00 Шаги в рапире.md",
+    "Фехтование/Рапира/Действия/00 Действия в рапире.md",
+    "BASE/Pasted image 20240815182413.png",
+    "BASE/Pasted image 20240815183847.png",
+    "BASE/Pasted image 20240815183837.png",
+    "BASE/Pasted image 20240815183834.png",
+    "Фехтование/Рапира/Положения/Линии",
+    "Фехтование/Рапира/Положения/Соединения",
+    "BASE/Pasted image 20240815173804.png",
+    "Фехтование/Рапира/Действия/Захваты",
+    "BASE/Pasted image 20240815174008.png",
+    "Фехтование/Рапира/Без названия",
+    "BASE/Pasted image 20240815172729.png",
+    "BASE",
+    "BASE/Pasted image 20240815172803.png",
+    "Фехтование/Рапира/Положения/Позиции",
+    "Фехтование/Рапира/Положения",
+    "Фехтование/Рапира/Действия/Перехваты",
+    "Математика",
+    "Без названия.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}
